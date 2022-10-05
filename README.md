@@ -1,4 +1,22 @@
 # VBA Homework: The VBA of Wall Street
+## Homework
+    Chris Gruenhagen 5Oct2022
+
+    The VBA of Wall Street homework was completed by following the instructions in this README file following this section.
+
+    Screenshots for each year of the results on the multi-year stock data are saved as:
+    Multiple_year_stock_data_2018.png
+    Multiple_year_stock_data_2019.png
+    Multiple_year_stock_data_2020.png
+
+    VBA scripts are saved as:
+    alphabetical_testing.vbs
+    Multiple_year_stock_data.vbs
+
+    The workbooks are saved as:
+    alphabetical_testing.xlsm
+    Multiple_year_stock_data.xlsm
+
 
 
 ## Background
@@ -79,22 +97,6 @@ After saving your work, create a shareable link and submit the link to <https://
 
 © 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
-## Homework
-Chris Gruenhagen 5Oct2022
 
-The VBA of Wall Street homework was completed by following the instructions in this README file preceding this section.
-
-Screenshots for each year of the results on the multi-year stock data are saved as:
-Multiple_year_stock_data_2018.png
-Multiple_year_stock_data_2019.png
-Multiple_year_stock_data_2020.png
-
-VBA scripts are saved as:
-alphabetical_testing.vbs
-Multiple_year_stock_data.vbs
-
-The workbooks are saved as:
-alphabetical_testing.xlsm
-Multiple_year_stock_data.xlsm
 
 
